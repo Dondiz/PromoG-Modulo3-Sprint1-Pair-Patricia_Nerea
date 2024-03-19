@@ -9,6 +9,10 @@ Objetivo : Practicar y aprender realizando ejercicios.
 Herramientas : Nunpy, Pandas
 
 Pair 1️⃣: Nunpy ✅
+
 Pair 2️⃣: Pandas ✅
-Pair 3️⃣ :
+
+Pair 3️⃣ : EDA ✅
+
 Pair 4️⃣ :
+
