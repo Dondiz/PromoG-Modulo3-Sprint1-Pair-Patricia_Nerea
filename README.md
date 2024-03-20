@@ -8,11 +8,12 @@ Objetivo : Practicar y aprender realizando ejercicios.
 
 Herramientas : Nunpy, Pandas
 
-Pair 1️⃣: Nunpy ✅
+Pair 1️: Nunpy ✅
 
-Pair 2️⃣: Pandas ✅
+Pair 2️: Pandas ✅
 
-Pair 3️⃣ : EDA ✅
+Pair 3️: EDA ✅
 
-Pair 4️⃣ :
+Pair 4️: Union✅
 
+Pair 5: Agrupación de Datos y Método apply ✅
