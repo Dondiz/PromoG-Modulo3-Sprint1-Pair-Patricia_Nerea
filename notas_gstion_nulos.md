@@ -1,0 +1,1 @@
+1) "abbreviation",'capital/majorcity',"currency-code", "largestcity", "officiallanguage" - Son valores unicos. No podemos sustituir. Se susituye nulo por 'Unknown'
